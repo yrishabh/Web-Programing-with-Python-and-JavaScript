@@ -19,3 +19,6 @@ Git Commands
 3: git commit -m "message" take a snapshot of the repository in the current moment and save it
 4: git status is a simple Command that effectively just tells you what's currently going on in your 
    repository
+5: git push, push our code from our local computer to  the repository that's stored 
+   somewher on the internet 
+6: git Pull , pull the code from remote server to your local computer 
