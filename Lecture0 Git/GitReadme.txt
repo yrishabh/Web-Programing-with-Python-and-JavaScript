@@ -22,3 +22,5 @@ Git Commands
 5: git push, push our code from our local computer to  the repository that's stored 
    somewher on the internet 
 6: git Pull , pull the code from remote server to your local computer 
+7: Merge Conflicts <<<< HEAD too ====== is your change to code and >>>>>> some number to 
+   is diffrent persion change your code 
